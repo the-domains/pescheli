@@ -1,0 +1,14 @@
+layout_spectrum: 0.1475420573260635
+typography_spectrum: 0.20017543155699968
+color:
+  brandStrength: 0.011850312352180481
+  lightness: 0.5450700470246375
+  saturation: 0.42070906213484704
+  rhythmicContrast: 0.37227925774641335
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: pescheLi
